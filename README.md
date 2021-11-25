@@ -7,3 +7,4 @@ I've been collecting these wallpapers for a long time and I've got mostly from t
 
 ## Style of wallpapers
 There is a lot of variety, you have nature, landscapes, superheroes and many others topics to put on your desktop.
+* If you wanna have them: `git clone https://github.com/Jorgedeveloopzz/Wallpapers.git` or download the ZIP and extract it.
